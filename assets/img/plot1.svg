@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#ece7d8"/>
+  <rect x="40" y="250" width="560" height="60" fill="#b09a6e"/>
+  <g stroke="#8f7d4f" stroke-width="4">
+    <line x1="40" y1="250" x2="600" y2="250"/>
+    <line x1="120" y1="250" x2="120" y2="330"/>
+    <line x1="240" y1="250" x2="240" y2="330"/>
+    <line x1="360" y1="250" x2="360" y2="330"/>
+    <line x1="480" y1="250" x2="480" y2="330"/>
+  </g>
+  <rect x="40" y="240" width="560" height="10" fill="#6f6144"/>
+  <g fill="#7e9c74">
+    <circle cx="90" cy="215" r="26"/><circle cx="560" cy="210" r="30"/>
+  </g>
+  <rect x="300" y="180" width="40" height="60" fill="#8f7d4f"/>
+  <path d="M292 182 320 150 348 182z" fill="#a25541"/>
+  <text x="40" y="140" font-family="Georgia, serif" font-size="26" fill="#6f6144">Prime land, tarmac access</text>
+</svg>
